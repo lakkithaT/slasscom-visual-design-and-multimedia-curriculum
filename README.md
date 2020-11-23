@@ -1,10 +1,10 @@
-# Visual Design and Multimedia Curriculum
+# Introduction
 
 This model curriculum is to be used as guidance by educational institutes in teaching ICT.
 
 <dl>
 <dt>Which career qualification?</dt>
-<dd>This is for students passionate about a {{ job role }} related career. Depth of the lessons are intended for diploma level qualifications in pursuing an entry-level job.</dd>
+<dd>This is for students passionate about a Graphic Design related career. Depth of the lessons are intended for diploma level qualifications in pursuing an entry-level job.</dd>
 <dt>Recommended duration?</dt>
 <dd>Through a short (one year or less) intensive course.</dd>
 <dt>Is this free to use?</dt>

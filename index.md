@@ -21,7 +21,7 @@ This model curriculum is to be used as guidance by educational institutes in tea
 | Graphic Design                            | [View Topics](./module-a/README.md)    |
 | Basic Video/Audio Editing                 | [View Topics](./module-a/README.md)    |
 | Basic 3D Design                           | [View Topics](./module-a/README.md)    |
-| User Experience Design                    | [View Topics](./module-a/Update User-Experience-Design-Module.md)    |
+| User Experience Design                    | [View Topics](./module-a/User-Experience-Design-Module.md)    |
 
 ## Problem overview
 

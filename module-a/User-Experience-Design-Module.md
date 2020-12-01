@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > {{User Experience Design}}
 
-# Module: {{Module Name}}
+# Module: {{User Experience Design}}
 
 > Short module description (~10 words)
 
@@ -17,9 +17,13 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Introduction to User Experience](./01-topic-a.md)
+2. [User Research](./01-topic-a.md)
+3. [Analyze and Identify User Problems](./01-topic-a.md)
+4. [Ideate for Solution](./01-topic-a.md)
+5. [Prototyping and Visual Design](./01-topic-a.md)
+6. [Test and Iterate](./01-topic-a.md)
+7. [Careers in UX / Portfolio Creation](./01-topic-a.md)
 
 ## Learning Outcomes
 

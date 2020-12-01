@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [User Experience Design](./user-experience-design-module.md) > Ideate for Solution
 
-# Topic: {{Topic Name}}
+# Topic: Ideate for Solution
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

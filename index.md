@@ -15,11 +15,13 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 ## Modules of the curriculum
 
-| Module                         | Details                                                   |
-| ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Module                                    | Details                                |
+| ----------------------------------------- | -------------------------------------- |
+| Foundational Principles of Visual Design  | [View Topics](./module-a/README.md)    |
+| Graphic Design                            | [View Topics](./module-a/README.md)    |
+| Basic Video/Audio Editing                 | [View Topics](./module-a/README.md)    |
+| Basic 3D Design                           | [View Topics](./module-a/README.md)    |
+| User Experience Design                    | [View Topics](./module-a/README.md)    |
 
 ## Problem overview
 

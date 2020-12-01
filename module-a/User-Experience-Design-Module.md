@@ -1,6 +1,6 @@
-[Home](../README.md) > {{User Experience Design}}
+[Home](../README.md) > User Experience Design
 
-# Module: {{User Experience Design}}
+# Module: User Experience Design
 
 > Short module description (~10 words)
 

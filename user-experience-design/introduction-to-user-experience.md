@@ -60,7 +60,7 @@ After Lecture:
 
 ### Lecture/Lab description
 
-This lesson will discussing below sub topics.
+This lesson will be discussing below sub topics.
 - Difference between UI & UX
 - Role of a UX Designer and a UI Designer
 

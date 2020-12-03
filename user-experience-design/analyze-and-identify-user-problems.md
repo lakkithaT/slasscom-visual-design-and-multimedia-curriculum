@@ -2,15 +2,14 @@
 
 # Topic: Analyze and Identify User Problems
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Lesson 1: [UX Research Analysis](#lesson-1)
+* Lesson 2: [Different Analysis Methods](#lesson-2)
+* Assignment: [Team Assignment](#assignment)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: UX Research Analysis
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -23,25 +22,45 @@
 
 Before Lecture:
 
-* [link description](./#)
-* [link description](./#)
-
-After Lecture:
-
-* [link description](./#)
+* [How To Conduct UX Research Analysis (UX Design Guide)](https://youtu.be/zGCRhd3r4fE)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+This lesson will discuss on UX Research Analysis by discussing below sub topics.
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Why we need to analyze 
+* What we are trying to find
 
 ---
 ---
+## Lesson 2: Different Analysis Methods
 
-## Assignment 1: {{Assignment name}}
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content 
+
+Before Lecture:
+
+* [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
+* [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
+* [Customer Journey Map Workshop](Customer Journey Map Workshop)
+
+### Lecture/Lab description
+
+This lesson will discuss on differnt methods that can be use for UX Research Analysis.
+
+* Persona
+* Empathy Map
+* Customer Journey Map
+---
+---
+
+## Assignment: Team Assignment
 
 <dl>
 <dt>Assignment Duration</dt>
@@ -50,7 +69,13 @@ Description to lecture content (50 - 100 words)
 
 ### Assignment description
 
-Description to assignment to complete
+Below assignment will take place in the same teams formed in assignment under "User Research" topic.
+
+After the interviews and survey you have performed for your Food Delivery app, now your team is planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
+
+Draft a persona for the selected user.
+Prepare a User Journey Map for the same user.
+By considering your research purpose, analyse what you have found in these.
 
 ---
 

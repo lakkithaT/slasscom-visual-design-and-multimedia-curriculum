@@ -73,9 +73,9 @@ Below assignment will take place in the same teams formed in assignment under "U
 
 After the interviews and survey you have performed for your Food Delivery app, now your team is planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
 
-Draft a persona for the selected user.
-Prepare a User Journey Map for the same user.
-By considering your research purpose, analyse what you have found in these.
+1. Draft a persona for the selected user.
+2. Prepare a User Journey Map for the same user.
+3. By considering your research purpose, analyse what you have found in these.
 
 ---
 

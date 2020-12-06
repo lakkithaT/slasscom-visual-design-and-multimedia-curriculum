@@ -48,7 +48,7 @@ Before Lecture:
 
 * [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
 * [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
-* [Customer Journey Map Workshop](Customer Journey Map Workshop)
+* [Customer Journey Map Workshop](https://youtu.be/X7iXcP-wIkk)
 
 ### Lecture/Lab description
 

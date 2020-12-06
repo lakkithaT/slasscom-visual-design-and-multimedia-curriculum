@@ -2,15 +2,15 @@
 
 # Topic: Prototyping and Visual Design
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
+* Lesson 1: [What is Prototyping](#lesson-1)
+* Lesson 2: [Different Prototyping Methods](#lesson-2)
 * Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Assignment 1: [Individual Assignment](#assignment-1)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: What is Prototyping
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -23,25 +23,71 @@
 
 Before Lecture:
 
-* [link description](./#)
-* [link description](./#)
-
-After Lecture:
-
-* [link description](./#)
+* [Design Thinking: Prototype](https://youtu.be/Q4MzT2MEDHA)
+* [Prototyping Why What and How for developers](https://youtu.be/pwHtcKmwPDA)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+This lesson will discuss below topics.
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* What is Prototype
+* The importance of Prototyping
 
 ---
 ---
 
-## Assignment 1: {{Assignment name}}
+## Lesson 2: Different Prototyping Methods
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+
+### Lecture/Lab description
+
+This lesson will discuss about differnet protoyping methods by discussing below sub topics.
+
+* Different type of prototyoing
+* High-fidelity prototyping methods
+* Low-fidelity prototyping methods
+
+---
+---
+
+## Lesson 3: Different Prototyping Tools
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+* [Intro to Figma - Beginners guide to Figma Basics](https://youtu.be/jk1T0CdLxwU)
+* [Adobe XD Basics | Top 10 Things to know when getting started](https://youtu.be/k7XcOQGbzaQ)
+
+### Lecture/Lab description
+
+This lesson will discuss about differnet protoyping tools by discussing below sub topics.
+
+* Introduction to prototyping tools
+* Figma
+* Adobe XD
+
+---
+---
+
+## Assignment 1: Individual Assignment
 
 <dl>
 <dt>Assignment Duration</dt>
@@ -50,6 +96,8 @@ Description to lecture content (50 - 100 words)
 
 ### Assignment description
 
-Description to assignment to complete
+In the previous assignment your team has develop a set of wireframes for a Food Delivery App.
+Now in this assigment your task is to develop a protoype based on those wireframes.
+You can use either Figma or Adobe XD as your prototyping tool.
 
 ---

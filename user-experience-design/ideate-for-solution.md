@@ -78,7 +78,7 @@ Before Lecture:
 
 This lesson will discuss wireframing by discussing below sub topics.
 * What is Wireframe
-* Hoe to do and tools to be use
+* How to do and tools to be use
 
 ---
 ---

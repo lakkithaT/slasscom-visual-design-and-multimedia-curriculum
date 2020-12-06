@@ -48,6 +48,12 @@ This lesson will discuss below sub topics.
 ### Self learning content
 
 Before Lecture:
+* [The different types of usability testing methods](https://www.hotjar.com/usability-testing/methods/)
+* [Guerilla Testing with Usability Cafe](https://www.youtube.com/watch?v=0YL0xoSmyZI)
+* [Oracle Applications User Experience Usability Labs](https://www.youtube.com/watch?v=Nar8SZK3MdU)
+* [Running a Remote Usability Test, Part 1](https://www.youtube.com/watch?v=ZkDafFDtJ1Y)
+* [Running a Remote Usability Test, Part 2](https://www.youtube.com/watch?v=lYE8I311qG4)
+* [How to Run an Unmoderated Remote Usability Test (URUT)](https://www.youtube.com/watch?v=vthW7mmn854)
 
 ### Lecture/Lab description
 

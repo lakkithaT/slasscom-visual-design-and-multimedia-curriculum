@@ -4,7 +4,8 @@
 
 * Lesson 1: [Introduction to Design Sprint](#lesson-1)
 * Lesson 2: [Brainstorming Methods](#lesson-2)
-* Lesson 3: [Wireframing](#lesson-3)
+* Lesson 3: [User Interface Elements](#lesson-3)
+* Lesson 4: [Wireframing](#lesson-4)
 * Assignment: [Team Assignment](#assignment)
 
 ---
@@ -60,7 +61,7 @@ This lesson will discuss different brainstoming methods teams can use for soluti
 ---
 ---
 
-## Lesson 3: Wireframing
+## Lesson 3: User Interface Elements
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -72,7 +73,39 @@ This lesson will discuss different brainstoming methods teams can use for soluti
 ### Self learning content
 
 Before Lecture:
+* [Whar are User Interface (UI) Design elements?](https://www.youtube.com/watch?v=-sy2iAFtZi8&list=WL&index=4&t=126s)
+* [What are Input Controls? User Interface (UI) Design Elements](https://www.youtube.com/watch?v=D-jl1E-_WBE&list=WL&index=5&t=113s)
+* [What are Navigational Components in UI Design Elements?](https://www.youtube.com/watch?v=x0RwCwFT0KU&list=WL&index=3&t=5s)
+* [What are Informational Components in UI Design Elements?](https://www.youtube.com/watch?v=KGcF0uBO-yA&list=WL&index=2&t=4s)
+* [What is Container in User Interface (UI) Design?](https://www.youtube.com/watch?v=POtqGPrjdMI&list=WL&index=1&t=5s)
 
+### Lecture/Lab description
+
+This lesson will discuss wireframing about user interface elements by discussing below sub topics.
+* Introduction to UI elements
+* Input Controls
+* Naviagtinal Components
+* Informational Components
+* Container
+
+---
+---
+
+## Lesson 4: Wireframing
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+* [Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w&list=WL&index=11&t=3s)
+* [Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg&list=WL&index=14)
+* [How To Create Your First Wireframe](https://www.youtube.com/watch?v=KdfO_e0yK-g&list=WL&index=13&t=2s)
 
 ### Lecture/Lab description
 

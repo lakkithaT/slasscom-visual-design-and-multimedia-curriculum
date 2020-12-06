@@ -6,7 +6,7 @@
 * Lesson 2: [Different Prototyping Methods](#lesson-2)
 * Lesson 3: [Different Prototyping Tools](#lesson-3)
 * Lesson 4: [Introduction to Grid System and Web Components](#lesson-3)
-* Assignment 1: [Individual Assignment](#assignment-1)
+* Assignment: [Individual Assignment](#assignment)
 
 ---
 ---
@@ -111,7 +111,7 @@ This lesson will discuss below sub topics.
 ---
 ---
 
-## Assignment 1: Individual Assignment
+## Assignment: Individual Assignment
 
 <dl>
 <dt>Assignment Duration</dt>

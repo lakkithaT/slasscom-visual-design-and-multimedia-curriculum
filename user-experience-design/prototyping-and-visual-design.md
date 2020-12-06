@@ -4,7 +4,8 @@
 
 * Lesson 1: [What is Prototyping](#lesson-1)
 * Lesson 2: [Different Prototyping Methods](#lesson-2)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
+* Lesson 3: [Different Prototyping Tools](#lesson-3)
+* Lesson 4: [Introduction to Grid System and Web Components](#lesson-3)
 * Assignment 1: [Individual Assignment](#assignment-1)
 
 ---
@@ -83,6 +84,29 @@ This lesson will discuss about differnet protoyping tools by discussing below su
 * Introduction to prototyping tools
 * Figma
 * Adobe XD
+
+---
+---
+
+## Lesson 4: Introduction to Grid System and Web Components
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+### Lecture/Lab description
+
+This lesson will discuss below sub topics.
+
+* Grid System
+* Basic Web Components
 
 ---
 ---

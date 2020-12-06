@@ -4,7 +4,7 @@
 
 * Lesson 1: [What is Prototyping](#lesson-1)
 * Lesson 2: [Different Prototyping Tools](#lesson-2)
-* Lesson 3: [Design Principals](#lesson-3)
+* Lesson 3: [Design Principles](#lesson-3)
 * Assignment: [Individual Assignment](#assignment)
 
 ---

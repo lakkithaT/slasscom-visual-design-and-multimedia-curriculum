@@ -2,15 +2,13 @@
 
 # Topic: Careers in UX / Portfolio Creation
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Lesson 1: [Continue with UX Learning](#lesson-1)
+* Lesson 2: [UX Profolio Creation](#lesson-2)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: Continue with UX Learning
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -21,35 +19,39 @@
 
 ### Self learning content
 
-Before Lecture:
-
-* [link description](./#)
-* [link description](./#)
-
-After Lecture:
-
-* [link description](./#)
+-
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+This lesson will discuss about how you can continue mastering the knowledge and skills required as UX Designer.
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Books to refer
+* Articles to read
+* UX courses
+* Join the online UX communities
 
 ---
 ---
 
-## Assignment 1: {{Assignment name}}
+## Lesson 2: UX Profolio Creation
 
 <dl>
-<dt>Assignment Duration</dt>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
 <dd>xx mins</dd>
 </dl>
 
-### Assignment description
+### Self learning content
 
-Description to assignment to complete
+-
+
+### Lecture/Lab description
+
+This lesson will discuss about how you can create your UX Portfolio by discussing below sub topics.
+
+* What is portfolio
+* Why it is important to have a portfolio
+* How to create
 
 ---

@@ -84,7 +84,7 @@ This lesson will discuss about Important guidelines of usability testing.
 ---
 ---
 
-## Assignment 1: Team Assignment
+## Assignment: Team Assignment
 
 <dl>
 <dt>Assignment Duration</dt>

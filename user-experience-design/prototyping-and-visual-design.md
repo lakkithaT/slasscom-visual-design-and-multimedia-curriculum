@@ -4,7 +4,7 @@
 
 * Lesson 1: [What is Prototyping](#lesson-1)
 * Lesson 2: [Different Prototyping Tools](#lesson-2)
-* Lesson 3: [Introduction to Grid System and Web Components](#lesson-3)
+* Lesson 3: [Design Principals](#lesson-3)
 * Assignment: [Individual Assignment](#assignment)
 
 ---
@@ -62,7 +62,7 @@ This lesson will discuss about differnet protoyping tools by discussing below su
 ---
 ---
 
-## Lesson 3: Introduction to Grid System and Web Components
+## Lesson 3: Design Principals
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -74,13 +74,23 @@ This lesson will discuss about differnet protoyping tools by discussing below su
 ### Self learning content
 
 Before Lecture:
+* [Introduction to web design principles](https://www.youtube.com/watch?v=AhvEca4Vhwk&list=PL6bq_6yXjuqIydAAeJly_XkLdCo-d2Euc)
+* [Design principles: Visual hierarchy ](https://www.youtube.com/watch?v=qZWDJqY27bw&list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl&index=12)
+* [Design principles: Repetition](https://www.youtube.com/watch?v=8zhhc5pzE9Y&list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl&index=13)
+* [Design principles: Grid systems & alignment](https://www.youtube.com/watch?v=9QRIjnMEXw8&list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl&index=14)
+* [Design principles: Space in design](https://www.youtube.com/watch?v=3dESVj7-XzI&list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl&index=15)
+* [Design principles: Typography](https://www.youtube.com/watch?v=yom0nogFN3k&list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl&index=16)
 
 ### Lecture/Lab description
 
-This lesson will discuss below sub topics.
+This lesson will discuss about differnet visual design principals as in below sub topics.
 
-* Grid System
-* Basic Web Components
+* Introduction Design Principles
+* Visual hierarchy
+* Repitition
+* Grid systems & alignments
+* Space in design
+* Typography
 
 ---
 ---

@@ -3,9 +3,8 @@
 # Topic: Prototyping and Visual Design
 
 * Lesson 1: [What is Prototyping](#lesson-1)
-* Lesson 2: [Different Prototyping Methods](#lesson-2)
-* Lesson 3: [Different Prototyping Tools](#lesson-3)
-* Lesson 4: [Introduction to Grid System and Web Components](#lesson-3)
+* Lesson 2: [Different Prototyping Tools](#lesson-2)
+* Lesson 3: [Introduction to Grid System and Web Components](#lesson-3)
 * Assignment: [Individual Assignment](#assignment)
 
 ---
@@ -37,32 +36,7 @@ This lesson will discuss below topics.
 ---
 ---
 
-## Lesson 2: Different Prototyping Methods
-
-<dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
-<dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Self learning content
-
-Before Lecture:
-
-
-### Lecture/Lab description
-
-This lesson will discuss about differnet protoyping methods by discussing below sub topics.
-
-* Different type of prototyoing
-* High-fidelity prototyping methods
-* Low-fidelity prototyping methods
-
----
----
-
-## Lesson 3: Different Prototyping Tools
+## Lesson 2: Different Prototyping Tools
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -88,7 +62,7 @@ This lesson will discuss about differnet protoyping tools by discussing below su
 ---
 ---
 
-## Lesson 4: Introduction to Grid System and Web Components
+## Lesson 3: Introduction to Grid System and Web Components
 
 <dl>
 <dt>Self learning Duration</dt>

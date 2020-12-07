@@ -49,7 +49,7 @@ This lesson will discuss below topics.
 
 Before Lecture:
 * [Intro to Figma - Beginners guide to Figma Basics](https://youtu.be/jk1T0CdLxwU)
-* [Adobe XD Basics | Top 10 Things to know when getting started](https://youtu.be/k7XcOQGbzaQ)
+* [Adobe XD Basics - Top 10 Things to know when getting started](https://youtu.be/k7XcOQGbzaQ)
 
 ### Lecture/Lab description
 

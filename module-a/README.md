@@ -33,3 +33,4 @@ Module description and why the content is important in the industry (~ 50 words)
 - learning outcome 2
 - learning outcome 3
 - learning outcome 4
+

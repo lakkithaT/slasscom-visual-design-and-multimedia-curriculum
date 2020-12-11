@@ -2,8 +2,9 @@
 
 # Topic: 5.	Motion Graphics 
 
-* Lesson 1: [Introduce Motion Graphics ](#lesson-1)
-* Lesson 2: [2D motion Graphics ](#lesson-2)
+* Lesson 1: [Introduce Motion Graphics ](## Lesson 1: Introduce Motion Graphics )
+* Lesson 2: [2D motion Graphics ](# Lesson 2: 2D motion Graphics)
+* Lesson 3: [Advance motion graphics and tools](#lesson-3)
 * Assignment 1: [Individual Assignment ](#assignment-1)
 
 ---

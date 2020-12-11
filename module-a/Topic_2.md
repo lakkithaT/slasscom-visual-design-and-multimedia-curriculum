@@ -1,8 +1,8 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > Video Production Process and tools
+[Home](../README.md) > [{{Module Name}}](./README.md) > Video Editing Process and tools
 
-# Topic: 1.	Introduction of Video Production
+# Topic: 1.	Video Editing Process and tools
 
-* Lesson 1: [ntroduction of Video Editing](#lesson-1)
+* Lesson 1: [Introduction of Video Editing](#lesson-1)
 * Lesson 2: [Main Tools of Video Production ](#lesson-1)
 * Assignment 1: [Individual Assignment ](#assignment-1)
 

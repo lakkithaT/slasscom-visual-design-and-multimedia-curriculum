@@ -1,6 +1,6 @@
 [Home](../README.md) > {{Module Name}}
 
-# Module: {{Module Name}}
+# Module: {{Video Editing and Audio Editing}}
 
 > Short module description (~10 words)
 

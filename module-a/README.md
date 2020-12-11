@@ -24,7 +24,7 @@ Module description and why the content is important in the industry (~ 50 words)
 2. [Video Editing Process and tools](./Topic_2.md)
 3. [Introduce Adobe Premier ](./Topic_3.md)
 4. [Introduction of Audio and Sound effects ](./Topic_4.md)
-5. [Motion Graphics](./topic_5.md)
+5. [Motion Graphics](./Topic_5.md)
 6. [Industry Standards and Show reel Creation ](./Topic_6.md)
 
 ## Learning Outcomes

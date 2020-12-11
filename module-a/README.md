@@ -2,7 +2,11 @@
 
 # Module: Video Editing and Audio Editing
 
-> Short module description (~10 words)
+> Video production is basically the entire process of creating a video. Whether it's a short film, a full-length movie, business marketing video, television commercial, music video, or other type of film, the process may vary a little with the specifics, but the overall process is basically the same. There 3 steps we should follow
+1.	Pre-Production 
+2.	Production
+3.	Post-Production
+ (~10 words)
 
 <dl>
 <dt>Total Duration</dt>

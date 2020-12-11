@@ -6,7 +6,6 @@
 1.	Pre-Production 
 2.	Production
 3.	Post-Production
- (~10 words)
 
 <dl>
 <dt>Total Duration</dt>

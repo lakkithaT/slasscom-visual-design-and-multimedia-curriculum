@@ -38,6 +38,34 @@ Description to lecture content (50 - 100 words)
 * teaching point 3
 
 ---
+## Lesson 2: History of Video Production 
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+* [link description](./#)
+* [link description](./#)
+
+After Lecture:
+
+* [link description](./#)
+
+### Lecture/Lab description
+
+Description to lecture content (50 - 100 words)
+
+* teaching point 1
+* teaching point 2
+* teaching point 3
+
 ---
 
 ## Assignment 1: {{Assignment name}}

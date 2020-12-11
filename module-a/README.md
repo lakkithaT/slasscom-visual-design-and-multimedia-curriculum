@@ -22,7 +22,7 @@ Module description and why the content is important in the industry (~ 50 words)
 
 1. [Introduction of Video Production](./Topic_1.md)
 2. [Video Editing Process and tools](./Topic_2.md)
-3. [Introduce Adobe Premier ](./01-topic-a.md)
+3. [Introduce Adobe Premier ](./Topic_3.md)
 4. [Introduction of Audio and Sound effects ](./01-topic-a.md)
 5. [Motion Graphics](./01-topic-a.md)
 6. [Industry Standards and Show reel Creation ](./01-topic-a.md)

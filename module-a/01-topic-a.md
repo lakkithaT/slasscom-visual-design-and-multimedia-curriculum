@@ -1,16 +1,15 @@
 [Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
 
-# Topic: {{LOL}}
+# Topic: 1.	Introduction of Video Production
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Lesson 1: [What is Video Production](#lesson-1)
+* Lesson 2: [History of Video Production](#lesson-1)
+* Assignment 1: [Individual Assignment ](#assignment-1)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: What is Video Production
 
 <dl>
 <dt>Self learning Duration</dt>

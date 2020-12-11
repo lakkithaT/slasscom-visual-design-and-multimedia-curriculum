@@ -1,4 +1,4 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Video Editing and Audio Editing
 
 # Module: Video Editing and Audio Editing
 

@@ -20,8 +20,8 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Introduction of Video Production](./01-topic-a.md)
-2. [Video Production Process and tools](./01-topic-a.md)
+1. [Introduction of Video Production](./Introduction of Video Production.md)
+2. [Video Production Process and tools](./Introduction of Video Editing.md)
 3. [Introduce Adobe Premier ](./01-topic-a.md)
 4. [Introduction of Audio and Sound effects ](./01-topic-a.md)
 5. [Motion Graphics](./01-topic-a.md)
